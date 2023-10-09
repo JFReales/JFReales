@@ -1,4 +1,4 @@
-Hola👋, soy Juan Francisco Reales
+                                          Hola👋, soy Juan Francisco Reales
 ---
 Fullstack Developer | Front End Developer | Back End Developer | HTML | CSS | Javascript | React | Redux | NodeJS | Sequelize | Java | MySQL | PostgreSQL
 <!--
