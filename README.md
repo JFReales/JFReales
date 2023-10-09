@@ -10,9 +10,11 @@ Fullstack Developer | Front End Developer | Back End Developer | HTML | CSS | Ja
 - 😄 Pronouns: Juanfra
 - ⚡ Fun fact: I like to learn new things
   
-  ![Profile views](https://gpvc.arturio.dev/JFReales)
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=JFReales&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   Languages and Tools:
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,nodejs,postgres,postman,react,vite,vscode,figma)](https://skillicons.dev)
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JFReales&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
