@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Hola👋, soy Juan Francisco Reales
+Fullstack Developer | Front End Developer | Back End Developer | HTML | CSS | Javascript | React | Redux | NodeJS | Sequelize | Java | MySQL | PostgreSQL
 <!--
 **JFReales/JFReales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
