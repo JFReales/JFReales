@@ -12,4 +12,6 @@ Fullstack Developer | Front End Developer | Back End Developer | HTML | CSS | Ja
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=JFReales&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+  Languages:
+
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql,nodejs,postgres,postman,react,vite,vscode)](https://skillicons.dev)
