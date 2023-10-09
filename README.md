@@ -10,5 +10,5 @@ Fullstack Developer | Front End Developer | Back End Developer | HTML | CSS | Ja
 - 😄 Pronouns: Juanfra
 - ⚡ Fun fact: I like to learn new things
 
-  [![trophy](https://github-profile-trophy.vercel.app/?JFReales=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=JFReales&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
